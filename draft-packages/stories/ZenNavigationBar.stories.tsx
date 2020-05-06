@@ -5,7 +5,7 @@ import {
   Link,
   Menu,
   ZenNavigationBar,
-} from "@kaizen/component-library/draft/Kaizen/ZenNavigationBar"
+} from "@kaizen/draft-zen-navigation-bar/KaizenDraft/ZenNavigationBar"
 
 const caIcon = require("@kaizen/component-library/icons/ca-monogram.icon.svg")
   .default

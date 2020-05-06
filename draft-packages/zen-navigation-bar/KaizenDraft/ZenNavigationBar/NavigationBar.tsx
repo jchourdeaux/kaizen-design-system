@@ -1,6 +1,6 @@
 import * as React from "react"
 
-import { ZenControlledOffCanvas } from "@kaizen/component-library/draft/Kaizen/ZenOffCanvas"
+import { ZenControlledOffCanvas } from "@kaizen/draft-zen-off-canvas/KaizenDraft/ZenOffCanvas"
 import classNames from "classnames"
 import Media from "react-media"
 import uuid from "uuid/v4"
