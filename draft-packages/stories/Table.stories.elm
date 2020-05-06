@@ -114,5 +114,5 @@ main =
 
 
 styles =
-    css "@kaizen/component-library/stories/Table.stories.scss"
+    css "./Table.stories.scss"
         {}
